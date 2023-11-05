@@ -1,0 +1,49 @@
+.bg{
+    background-color: #1c1c1c;
+}
+.bgim{
+    height: 100x;
+    width: 100px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.container-fluid2{
+    margin-top: 3%;
+    background-color:white;
+    
+}
+.col{
+    text-align: center;
+    color:#1c1c1c;
+}
+.fav{
+  
+    width: 400px;
+}
+.container{
+    margin-top: 1%;
+}
+.fav1{
+    width: 50px;
+    height: 50px;
+
+}
+.song{
+    height: 90px;
+    width: 90px;
+}
+.audioPlayer{
+    height: 60px;
+    padding-left: 3%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    width: 400px;
+}
+.container{
+    height: 100px;
+
+
+}
+.col-sm-1{
+    margin-left: 10%;
+}
